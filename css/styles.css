@@ -1,0 +1,22 @@
+.input-container {
+  text-align: center;
+  margin-top: 1.5em;
+}
+input {
+  width: 30%;
+  padding: 10px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+}
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: auto;
+}
+img[src*="thumbnail"] {
+  padding: 2em;
+}
+.list span {
+  display: none;
+}
